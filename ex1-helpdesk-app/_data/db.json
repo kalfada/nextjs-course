@@ -22,18 +22,25 @@
       "user_email": "peach@netninja.dev"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "test ticket",
       "body": "need to check if working properly",
       "priority": "high",
       "user_email": "example@gmail.com"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "another test",
       "body": "test",
       "priority": "high",
       "user_email": "example@gmail.com"
+    },
+    {
+      "id": "837a",
+      "title": "test post req",
+      "body": "testing",
+      "user_email": "daniel@gmail.com",
+      "priority": "high"
     }
   ]
 }

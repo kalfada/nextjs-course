@@ -10,6 +10,8 @@
     "server": "json-server --watch --port 4000 ./_data/db.json"
   },
   "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/supabase-js": "^2.43.1",
     "autoprefixer": "10.4.19",
     "eslint": "8.57.0",
     "eslint-config-next": "14.2.3",
